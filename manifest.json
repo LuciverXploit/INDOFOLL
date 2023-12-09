@@ -1,0 +1,22 @@
+{
+  "dir": "ltr",
+  "lang": "id",
+  "name": "INDOFOLL",
+  "short_name": "INDOFOLL",
+  "scope": "/",
+  "display": "browser",
+  "start_url": "https://indofoll.com/",
+  "background_color": "#000000",
+  "theme_color": "transparent",
+  "description": "Gratis Followers Instagram dan Gratis Likes Instagram dari orang Indonesia asli. Rasakan mendapatkan auto followers dan auto likes instagram aktif Indonesia.",
+  "orientation": "any",
+  "related_applications": [],
+  "prefer_related_applications": "false",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32 48x48 64x64"
+    }
+  ],
+  "url": "https://indofoll.com/"
+}
